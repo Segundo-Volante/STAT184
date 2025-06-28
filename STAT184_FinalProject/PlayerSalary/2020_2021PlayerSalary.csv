@@ -1,0 +1,557 @@
+"name","team","salary"
+"Stephen Curry","Golden State Warriors",43006362
+"Russell Westbrook","Washington Wizards",41358814
+"Chris Paul","Phoenix Suns",41358814
+"James Harden","Brooklyn Nets",41254920
+"John Wall","Houston Rockets",41254920
+"Kevin Durant","Brooklyn Nets",40108950
+"LeBron James","Los Angeles Lakers",39219565
+"Paul George","LA Clippers",35450412
+"Klay Thompson","Dallas Mavericks",35361360
+"Mike Conley","Utah Jazz",34502130
+"Jimmy Butler III","Miami Heat",34379100
+"Kawhi Leonard","LA Clippers",34379100
+"Kemba Walker","Boston Celtics",34379100
+"Tobias Harris","Philadelphia 76ers",34358850
+"Khris Middleton","Milwaukee Bucks",33051724
+"Anthony Davis","Los Angeles Lakers",32742000
+"Kyrie Irving","Brooklyn Nets",31742000
+"Damian Lillard","Portland Trail Blazers",31626953
+"Kevin Love","Cleveland Cavaliers",31258256
+"Ben Simmons","Philadelphia 76ers",30559200
+"Pascal Siakam","Toronto Raptors",30559200
+"Kyle Lowry","Toronto Raptors",30500000
+"Steven Adams","New Orleans Pelicans",29592696
+"Joel Embiid","Philadelphia 76ers",29542010
+"Andrew Wiggins","Golden State Warriors",29542010
+"Nikola Jokic","Denver Nuggets",29542010
+"Devin Booker","Phoenix Suns",29467800
+"Karl-Anthony Towns","Minnesota Timberwolves",29467800
+"Kristaps Porzingis","Dallas Mavericks",29467800
+"CJ McCollum","Portland Trail Blazers",29354152
+"Bradley Beal","Washington Wizards",28751775
+"D'Angelo Russell","Minnesota Timberwolves",28649250
+"Gordon Hayward","Charlotte Hornets",28500000
+"Otto Porter Jr.","Orlando Magic",28489237
+"DeMar DeRozan","San Antonio Spurs",27739975
+"Giannis Antetokounmpo","Milwaukee Bucks",27528090
+"Rudy Gobert","Utah Jazz",27525281
+"Al Horford","Oklahoma City Thunder",27500000
+"Jamal Murray","Denver Nuggets",27285000
+"Brandon Ingram","New Orleans Pelicans",27285000
+"Jrue Holiday","Milwaukee Bucks",26231111
+"Nikola Vucevic","Chicago Bulls",2.6e+07
+"Chandler Parsons","Atlanta Hawks",25102511
+"Buddy Hield","Sacramento Kings",24701834
+"LaMarcus Aldridge","Brooklyn Nets",2.4e+07
+"Jaylen Brown","Boston Celtics",23735118
+"Draymond Green","Golden State Warriors",22246956
+"Harrison Barnes","Sacramento Kings",22215909
+"Fred VanVleet","Toronto Raptors",21250000
+"Victor Oladipo","Miami Heat",2.1e+07
+"Malcolm Brogdon","Indiana Pacers",20700000
+"Domantas Sabonis","Indiana Pacers",19800000
+"Gary Harris","Orlando Magic",19610714
+"Danilo Gallinari","Atlanta Hawks",19500000
+"Zach LaVine","Chicago Bulls",19500000
+"Jerami Grant","Detroit Pistons",19050000
+"Tim Hardaway Jr.","Dallas Mavericks",18975000
+"Julius Randle","New York Knicks",18900000
+"Terry Rozier","Charlotte Hornets",18900000
+"Allen Crabbe","Minnesota Timberwolves",18500000
+"Aaron Gordon","Denver Nuggets",18136364
+"Goran Dragic","Miami Heat",1.8e+07
+"Myles Turner","Indiana Pacers",1.8e+07
+"Bogdan Bogdanovic","Atlanta Hawks",1.8e+07
+"Bojan Bogdanovic","Utah Jazz",17850000
+"Evan Fournier","Boston Celtics",17150000
+"Ricky Rubio","Minnesota Timberwolves",1.7e+07
+"Eric Bledsoe","New Orleans Pelicans",16875000
+"Eric Gordon","Houston Rockets",16869276
+"Timofey Mozgov","Orlando Magic",16720000
+"Caris LeVert","Indiana Pacers",16203704
+"Joe Harris","Brooklyn Nets",16071429
+"James Johnson","New Orleans Pelicans",16047100
+"Dennis Schroder","Los Angeles Lakers",1.6e+07
+"Clint Capela","Atlanta Hawks",1.6e+07
+"Cody Zeller","Charlotte Hornets",15415730
+"Danny Green","Philadelphia 76ers",15365853
+"Davis Bertans","Washington Wizards",1.5e+07
+"Andre Iguodala","Miami Heat",1.5e+07
+"Jonas Valanciunas","Memphis Grizzlies",1.5e+07
+"Marcus Morris Sr.","LA Clippers",14888721
+"Luke Babbitt","Miami Heat",14651700
+"Rudy Gay","San Antonio Spurs",14500000
+"Kelly Oubre Jr.","Golden State Warriors",14375000
+"Dejounte Murray","San Antonio Spurs",14286000
+"Will Barton","Denver Nuggets",13723214
+"Marcin Gortat","LA Clippers",13565218
+"Thaddeus Young","Chicago Bulls",13545000
+"Patty Mills","San Antonio Spurs",13535714
+"Terrence Ross","Orlando Magic",13500000
+"Marcus Smart","Boston Celtics",13446428
+"Malik Beasley","Minnesota Timberwolves",13425895
+"Patrick Beverley","LA Clippers",13333333
+"Christian Wood","Houston Rockets",13015873
+"JJ Redick","Dallas Mavericks",13013700
+"Justise Winslow","Memphis Grizzlies",1.3e+07
+"Jusuf Nurkic","Portland Trail Blazers",12888889
+"Trevor Ariza","Miami Heat",12800000
+"Courtney Lee","Dallas Mavericks",12759670
+"Brook Lopez","Milwaukee Bucks",12697674
+"Cory Joseph","Detroit Pistons",12600000
+"Kelly Olynyk","Houston Rockets",12598243
+"Miles Plumlee","Memphis Grizzlies",12500000
+"T.J. Warren","Indiana Pacers",12500000
+"Nikola Mirotic","Milwaukee Bucks",12500000
+"Tyreke Evans","Indiana Pacers",12400000
+"Markelle Fultz","Orlando Magic",12288697
+"Taurean Prince","Cleveland Cavaliers",12250000
+"Tony Snell","Atlanta Hawks",12178571
+"Robert Covington","Portland Trail Blazers",12138345
+"Kentavious Caldwell-Pope","Los Angeles Lakers",12073020
+"Larry Nance Jr.","Cleveland Cavaliers",11709091
+"Zach Randolph","Dallas Mavericks",11692308
+"Jordan Clarkson","Utah Jazz",11500000
+"Spencer Dinwiddie","Brooklyn Nets",11454048
+"Dillon Brooks","Memphis Grizzlies",11400000
+"Omer Asik","Chicago Bulls",11286516
+"Dwight Powell","Dallas Mavericks",11080125
+"Lonzo Ball","New Orleans Pelicans",11003782
+"Josh Richardson","Dallas Mavericks",10865952
+"Norman Powell","Portland Trail Blazers",10865952
+"Joe Ingles","Utah Jazz",10863637
+"Jeremy Lamb","Indiana Pacers",10500000
+"DeAndre Jordan","Brooklyn Nets",10375678
+"Zion Williamson","New Orleans Pelicans",10245480
+"Rodney Hood","Toronto Raptors",10047450
+"Tomas Satoransky","Chicago Bulls",1e+07
+"Darren Collison","Los Angeles Lakers",1e+07
+"Jayson Tatum","Boston Celtics",9897120
+"Anthony Edwards","Minnesota Timberwolves",9757440
+"Al-Farouq Aminu","Chicago Bulls",9720900
+"Dante Exum","Cleveland Cavaliers",9600000
+"George Hill","Philadelphia 76ers",9590602
+"De'Anthony Melton","Memphis Grizzlies",9571712
+"Deandre Ayton","Phoenix Suns",9562920
+"Kyle Anderson","Memphis Grizzlies",9505100
+"Meyers Leonard","Miami Heat",9400000
+"Montrezl Harrell","Los Angeles Lakers",9258000
+"Jae Crowder","Phoenix Suns",9258000
+"Serge Ibaka","LA Clippers",9258000
+"Derrick Jones Jr.","Portland Trail Blazers",9258000
+"Tristan Thompson","Boston Celtics",9258000
+"Derrick Favors","Utah Jazz",9258000
+"Dario Saric","Phoenix Suns",9250000
+"Ja Morant","Memphis Grizzlies",9166800
+"Delon Wright","Sacramento Kings",9e+06
+"Marvin Bagley III","Sacramento Kings",8963640
+"Cedi Osman","Cleveland Cavaliers",8840580
+"Tyus Jones","Memphis Grizzlies",8817143
+"James Wiseman","Golden State Warriors",8730240
+"Royce O'Neale","Utah Jazz",8500000
+"Thomas Bryant","Washington Wizards",8333333
+"CJ Miles","Boston Celtics",8333333
+"Maxi Kleber","Dallas Mavericks",8325000
+"RJ Barrett","New York Knicks",8231760
+"Jakob Poeltl","San Antonio Spurs",8101852
+"De'Aaron Fox","Sacramento Kings",8099627
+"Luka Doncic","Dallas Mavericks",8049360
+"Mason Plumlee","Detroit Pistons",8e+06
+"Lou Williams","Atlanta Hawks",8e+06
+"P.J. Tucker","Milwaukee Bucks",7969537
+"LaMelo Ball","Charlotte Hornets",7839960
+"Seth Curry","Philadelphia 76ers",7834449
+"Derrick Rose","New York Knicks",7682927
+"Cristiano Felicio","Chicago Bulls",7529020
+"Rajon Rondo","LA Clippers",7500000
+"Darrell Arthur","Phoenix Suns",7464912
+"De'Andre Hunter","Atlanta Hawks",7422000
+"Jonathan Isaac","Orlando Magic",7362566
+"Doug McDermott","Indiana Pacers",7333333
+"Robin Lopez","Washington Wizards",7300000
+"Jaren Jackson Jr.","Memphis Grizzlies",7257360
+"JaMychal Green","Denver Nuggets",7199760
+"Patrick Williams","Chicago Bulls",7068360
+"Aron Baynes","Toronto Raptors",7e+06
+"Darius Miller","Oklahoma City Thunder",7e+06
+"Ivica Zubac","LA Clippers",7e+06
+"Chris Boucher","Toronto Raptors",6750000
+"Lauri Markkanen","Chicago Bulls",6731508
+"Darius Garland","Cleveland Cavaliers",6720720
+"D.J. Augustin","Houston Rockets",6666667
+"Trae Young","Atlanta Hawks",6571800
+"Juancho Hernangomez","Minnesota Timberwolves",6493000
+"Isaac Okoro","Cleveland Cavaliers",6400920
+"Milos Teodosic","LA Clippers",6300000
+"Frank Ntilikina","New York Knicks",6176578
+"Wesley Johnson","Washington Wizards",6134520
+"Jarrett Culver","Minnesota Timberwolves",6104280
+"Ish Smith","Washington Wizards",6e+06
+"Alec Burks","New York Knicks",6e+06
+"Mo Bamba","Orlando Magic",5969040
+"Onyeka Okongwu","Atlanta Hawks",5813640
+"Justin Holiday","Indiana Pacers",5720000
+"Jonathon Simmons","Washington Wizards",5700000
+"Dennis Smith Jr.","Detroit Pistons",5686677
+"Avery Bradley","Houston Rockets",5635000
+"Coby White","Chicago Bulls",5572680
+"Trey Lyles","San Antonio Spurs",5500000
+"Alex Abrines","Oklahoma City Thunder",5455236
+"Jason Smith","New Orleans Pelicans",5450000
+"Wendell Carter Jr.","Orlando Magic",5448840
+"Zach Collins","Chicago Bulls",5406255
+"Malik Monk","Charlotte Hornets",5345687
+"Killian Hayes","Detroit Pistons",5307120
+"Alexis Ajinca","LA Clippers",5285394
+"Luke Kennard","LA Clippers",5273826
+"Donovan Mitchell","Utah Jazz",5195501
+"Rodney McGruder","Detroit Pistons",5192307
+"Bam Adebayo","Miami Heat",5115492
+"Jaxson Hayes","New Orleans Pelicans",5105160
+"Richaun Holmes","Sacramento Kings",5005350
+"Mike Scott","Philadelphia 76ers",5005350
+"Ed Davis","Minnesota Timberwolves",5005350
+"Enes Freedom","Portland Trail Blazers",5005350
+"Nerlens Noel","New York Knicks",5e+06
+"Daniel Theis","Chicago Bulls",5e+06
+"Dirk Nowitzki","Dallas Mavericks",5e+06
+"Kyle Singler","Oklahoma City Thunder",4996000
+"Collin Sexton","Cleveland Cavaliers",4991880
+"Pat Connaughton","Milwaukee Bucks",4938272
+"Obi Toppin","New York Knicks",4862040
+"Josh Jackson","Detroit Pistons",4767000
+"Garrett Temple","Chicago Bulls",4767000
+"Kris Dunn","Atlanta Hawks",4767000
+"Rui Hachimura","Washington Wizards",4692840
+"Denzel Valentine","Chicago Bulls",4642800
+"Kevin Knox II","New York Knicks",4588680
+"D.J. Wilson","Houston Rockets",4548280
+"Deni Avdija","Washington Wizards",4469160
+"Kevon Looney","Golden State Warriors",4464226
+"Cam Reddish","Atlanta Hawks",4458000
+"T.J. Leaf","Portland Trail Blazers",4326825
+"Jalen Smith","Phoenix Suns",4245720
+"JaVale McGee","Denver Nuggets",4200000
+"Reggie Bullock Jr.","New York Knicks",4200000
+"Mikal Bridges","Phoenix Suns",4161000
+"Shai Gilgeous-Alexander","Oklahoma City Thunder",4411320
+"John Collins","Atlanta Hawks",4137302
+"Nicolo Melli","Dallas Mavericks",4102564
+"Willie Cauley-Stein","Dallas Mavericks",4100000
+"Devin Vassell","San Antonio Spurs",4033440
+"Cameron Johnson","Phoenix Suns",4033440
+"P.J. Washington","Charlotte Hornets",4023600
+"Patrick McCaw","Toronto Raptors",4e+06
+"Dorian Finney-Smith","Dallas Mavericks",4e+06
+"Terrance Ferguson","Philadelphia 76ers",3944013
+"Miles Bridges","Charlotte Hornets",3934320
+"Jevon Carter","Phoenix Suns",3925000
+"Jarrett Allen","Cleveland Cavaliers",3909902
+"OG Anunoby","Toronto Raptors",3872215
+"Gabriel Deck","Oklahoma City Thunder",3870370
+"Tyrese Haliburton","Sacramento Kings",3831840
+"Stanley Johnson","Toronto Raptors",3804150
+"Jake Layman","Minnesota Timberwolves",3761085
+"Jerome Robinson","Washington Wizards",3737520
+"Danuel House Jr.","Houston Rockets",3717000
+"Kira Lewis Jr.","New Orleans Pelicans",3640200
+"Romeo Langford","Boston Celtics",3631200
+"Bobby Portis","Milwaukee Bucks",3623000
+"Maurice Harkless","Sacramento Kings",3623000
+"Wesley Matthews","Los Angeles Lakers",3623000
+"Kyle Kuzma","Los Angeles Lakers",3562178
+"Allonzo Trier","New York Knicks",3551000
+"Michael Porter Jr.","Denver Nuggets",3550800
+"Tony Bradley","Oklahoma City Thunder",3542060
+"Derrick White","San Antonio Spurs",3516284
+"Bismack Biyombo","Charlotte Hornets",3500000
+"Michael Beasley","Brooklyn Nets",3500000
+"Luca Vildoza","Milwaukee Bucks",3500000
+"T.J. McConnell","Indiana Pacers",3500000
+"Boban Marjanovic","Dallas Mavericks",3500000
+"Josh Hart","New Orleans Pelicans",3491159
+"Aaron Nesmith","Boston Celtics",3458400
+"Sekou Doumbouya","Detroit Pistons",3449400
+"Michael Carter-Williams","Orlando Magic",3300000
+"James Ennis III","Orlando Magic",3300000
+"Cole Anthony","Orlando Magic",3285120
+"Troy Brown Jr.","Chicago Bulls",3219480
+"Chuma Okeke","Orlando Magic",3121080
+"Isaiah Stewart","Detroit Pistons",3121080
+"Nickeil Alexander-Walker","New Orleans Pelicans",3113160
+"Patrick Patterson","LA Clippers",3077704
+"Donte DiVincenzo","Milwaukee Bucks",3044160
+"Trey Burke","Dallas Mavericks",3e+06
+"Khem Birch","Toronto Raptors",3e+06
+"Ryan Arcidiacono","Chicago Bulls",3e+06
+"Aleksej Pokusevski","Oklahoma City Thunder",2964840
+"Goga Bitadze","Indiana Pacers",2957520
+"Luka Samanic","San Antonio Spurs",2892000
+"Lonnie Walker IV","San Antonio Spurs",2892000
+"Josh Green","Dallas Mavericks",2816760
+"Kevin Huerter","Atlanta Hawks",2761920
+"Alex Caruso","Los Angeles Lakers",2750000
+"Matisse Thybulle","Philadelphia 76ers",2711280
+"Saddiq Bey","Detroit Pistons",2689920
+"Josh Okogie","Minnesota Timberwolves",2651040
+"Marko Guduric","Memphis Grizzlies",2625000
+"Brandon Clarke","Memphis Grizzlies",2602920
+"Precious Achiuwa","Miami Heat",2582160
+"Tyler Herro","Miami Heat",2582160
+"Marc Gasol","Los Angeles Lakers",2564753
+"Nene Hilario","Atlanta Hawks",2564753
+"Grayson Allen","Memphis Grizzlies",2545320
+"Manu Ginobili","San Antonio Spurs",2500000
+"Grant Williams","Boston Celtics",2498760
+"Tyrese Maxey","Philadelphia 76ers",2478840
+"Emeka Okafor","Philadelphia 76ers",2445085
+"Kendrick Perkins","Cleveland Cavaliers",2445085
+"Chandler Hutchison","Washington Wizards",2443440
+"Tyler Zeller","Atlanta Hawks",2436046
+"Aaron Holiday","Indiana Pacers",2345640
+"Darius Bazley","Oklahoma City Thunder",2339160
+"Bryn Forbes","Milwaukee Bucks",2337145
+"Ty Jerome","Oklahoma City Thunder",2303040
+"Zeke Nnaji","Denver Nuggets",2284800
+"Mike Muscala","Oklahoma City Thunder",2283034
+"Ben McLemore","Los Angeles Lakers",2283034
+"Anfernee Simons","Portland Trail Blazers",2252040
+"Brad Wanamaker","Charlotte Hornets",2250000
+"Luke Kornet","Boston Celtics",2250000
+"Brandon Jennings","Milwaukee Bucks",2222803
+"Nassir Little","Portland Trail Blazers",2210640
+"Payton Pritchard","Boston Celtics",2193480
+"R.J. Hampton","Orlando Magic",2193040
+"Edmond Sumner","Indiana Pacers",2160000
+"Dylan Windler","Cleveland Cavaliers",2137440
+"Immanuel Quickley","New York Knicks",2105520
+"John Konchar","Memphis Grizzlies",2100000
+"Landry Shamet","Brooklyn Nets",2090040
+"Jordan Poole","Golden State Warriors",2063280
+"Bol Bol","Denver Nuggets",2058240
+"Sean Kilpatrick","Chicago Bulls",2054856
+"Keldon Johnson","San Antonio Spurs",2048040
+"Robert Williams III","Boston Celtics",2029920
+"Jacob Evans","New York Knicks",2017320
+"Kenrich Williams","Oklahoma City Thunder",2e+06
+"Theo Maledon","Oklahoma City Thunder",2e+06
+"Damyean Dotson","Cleveland Cavaliers",2e+06
+"Gary Clark","Philadelphia 76ers",2e+06
+"Omari Rasuala Spellman","New York Knicks",1988280
+"Cameron Payne","Phoenix Suns",1977011
+"Udoka Azubuike","Utah Jazz",1977011
+"Jaden McDaniels","Minnesota Timberwolves",1964760
+"Malachi Flynn","Toronto Raptors",1950600
+"Desmond Bane","Memphis Grizzlies",1936440
+"Jontay Porter","Memphis Grizzlies",1900000
+"Jahlil Okafor","Detroit Pistons",1882867
+"Marquese Chriss","Golden State Warriors",1824003
+"David Nwaba","Houston Rockets",1824003
+"DeAndre Liggins","Miami Heat",1795015
+"Georges Niang","Utah Jazz",1783557
+"PJ Dozier","Denver Nuggets",1762796
+"Damion Lee","Golden State Warriors",1762796
+"Furkan Korkmaz","Philadelphia 76ers",1762796
+"Alfonzo McKinnie","Los Angeles Lakers",1762796
+"Abdel Nader","Phoenix Suns",1752950
+"Semi Ojeleye","Boston Celtics",1752950
+"DeAndre' Bembry","Toronto Raptors",1737145
+"Kevin Porter Jr.","Houston Rockets",1717981
+"Shake Milton","Philadelphia 76ers",1701593
+"Thanasis Antetokounmpo","Milwaukee Bucks",1701593
+"Brandon Goodwin","Atlanta Hawks",1701593
+"Jonah Bolden","Phoenix Suns",1698450
+"Wes Iwundu","New Orleans Pelicans",1678854
+"Dragan Bender","Golden State Warriors",1678854
+"Isaac Bonga","Washington Wizards",1663861
+"Gary Trent Jr.","Toronto Raptors",1663861
+"Bruce Brown","Brooklyn Nets",1663861
+"Hamidou Diallo","Detroit Pistons",1663861
+"Kendrick Nunn","Miami Heat",1663861
+"Mitchell Robinson","New York Knicks",1663861
+"Jalen Brunson","Dallas Mavericks",1663861
+"Keita Bates-Diop","San Antonio Spurs",1663861
+"Duncan Robinson","Miami Heat",1663861
+"Svi Mykhailiuk","Oklahoma City Thunder",1663861
+"Jarred Vanderbilt","Minnesota Timberwolves",1663861
+"Julyan Stone","Chicago Bulls",1656092
+"MarShon Brooks","Chicago Bulls",1656092
+"Wenyen Gabriel","New Orleans Pelicans",1620564
+"Shaquille Harrison","Denver Nuggets",1620564
+"Isaiah Taylor","Toronto Raptors",1620564
+"Hassan Whiteside","Sacramento Kings",1620564
+"Tyler Johnson","Brooklyn Nets",1620564
+"Tyler Lydon","Sacramento Kings",1620564
+"Quinn Cook","Cleveland Cavaliers",1620564
+"Matthew Dellavedova","Cleveland Cavaliers",1620564
+"Kent Bazemore","Golden State Warriors",1620564
+"Drew Eubanks","San Antonio Spurs",1620564
+"Isaiah Thomas","New Orleans Pelicans",1620564
+"Nicolas Batum","LA Clippers",1620564
+"E'Twaun Moore","Phoenix Suns",1620564
+"Isaiah Hartenstein","Cleveland Cavaliers",1620564
+"Solomon Hill","Atlanta Hawks",1620564
+"Josh Gray","Brooklyn Nets",1620564
+"Wilson Chandler","Brooklyn Nets",1620564
+"Glenn Robinson III","Sacramento Kings",1620564
+"Udonis Haslem","Miami Heat",1620564
+"Harry Giles III","Portland Trail Blazers",1620564
+"Sterling Brown","Houston Rockets",1620564
+"Wayne Ellington","Detroit Pistons",1620564
+"Thanasis Antetokounmpo","Milwaukee Bucks",1701593
+"Brandon Goodwin","Atlanta Hawks",1701593
+"Jonah Bolden","Phoenix Suns",1698450
+"Wes Iwundu","New Orleans Pelicans",1678854
+"Dragan Bender","Golden State Warriors",1678854
+"Isaac Bonga","Washington Wizards",1663861
+"Gary Trent Jr.","Toronto Raptors",1663861
+"Bruce Brown","Brooklyn Nets",1663861
+"Hamidou Diallo","Detroit Pistons",1663861
+"Kendrick Nunn","Miami Heat",1663861
+"Mitchell Robinson","New York Knicks",1663861
+"Jalen Brunson","Dallas Mavericks",1663861
+"Keita Bates-Diop","San Antonio Spurs",1663861
+"Duncan Robinson","Miami Heat",1663861
+"Svi Mykhailiuk","Oklahoma City Thunder",1663861
+"Jarred Vanderbilt","Minnesota Timberwolves",1663861
+"Julyan Stone","Chicago Bulls",1656092
+"MarShon Brooks","Chicago Bulls",1656092
+"Wenyen Gabriel","New Orleans Pelicans",1620564
+"Shaquille Harrison","Denver Nuggets",1620564
+"Isaiah Taylor","Toronto Raptors",1620564
+"Hassan Whiteside","Sacramento Kings",1620564
+"Tyler Johnson","Brooklyn Nets",1620564
+"Tyler Lydon","Sacramento Kings",1620564
+"Quinn Cook","Cleveland Cavaliers",1620564
+"Matthew Dellavedova","Cleveland Cavaliers",1620564
+"Kent Bazemore","Golden State Warriors",1620564
+"Drew Eubanks","San Antonio Spurs",1620564
+"Isaiah Thomas","New Orleans Pelicans",1620564
+"Nicolas Batum","LA Clippers",1620564
+"E'Twaun Moore","Phoenix Suns",1620564
+"Isaiah Hartenstein","Cleveland Cavaliers",1620564
+"Solomon Hill","Atlanta Hawks",1620564
+"Josh Gray","Brooklyn Nets",1620564
+"Wilson Chandler","Brooklyn Nets",1620564
+"Glenn Robinson III","Sacramento Kings",1620564
+"Udonis Haslem","Miami Heat",1620564
+"Harry Giles III","Portland Trail Blazers",1620564
+"Sterling Brown","Houston Rockets",1620564
+"Wayne Ellington","Detroit Pistons",1620564
+"Admiral Schofield","Orlando Magic",1517981
+"Isaiah Roby","Oklahoma City Thunder",1517981
+"Nic Claxton","Brooklyn Nets",1517981
+"Naz Reid","Minnesota Timberwolves",1517981
+"Eric Paschall","Golden State Warriors",1517981
+"Jalen Lecque","Indiana Pacers",1517981
+"Rayjon Tucker","Philadelphia 76ers",1517981
+"Caleb Martin","Charlotte Hornets",1517981
+"Ky Bowman","LA Clippers",1517981
+"Juwan Morgan","Utah Jazz",1517981
+"Terance Mann","LA Clippers",1517981
+"Alen Smailagic","Golden State Warriors",1517981
+"Jaylen Nowell","Minnesota Timberwolves",1517981
+"Carsen Edwards","Boston Celtics",1517981
+"Vlatko Cancar","Denver Nuggets",1517981
+"Daniel Gafford","Washington Wizards",1517981
+"Dean Wade","Cleveland Cavaliers",1517981
+"Matt Thomas","Utah Jazz",1517981
+"Javonte Green","Chicago Bulls",1517981
+"Justin James","Sacramento Kings",1517981
+"Bruno Fernando","Atlanta Hawks",1517981
+"Chris Silva","Sacramento Kings",1517981
+"Chris Clemons","Atlanta Hawks",1517981
+"Omri Casspi","Memphis Grizzlies",1512601
+"Isaiah Canaan","Milwaukee Bucks",1512601
+"Dwyane Wade","Miami Heat",1512601
+"Robert Woodard II","Sacramento Kings",1500000
+"Paul Watson","Toronto Raptors",1445697
+"DaQuan Jeffries","Houston Rockets",1445697
+"Jae'Sean Tate","Houston Rockets",1445697
+"Theo Pinson","New York Knicks",1445697
+"Zylan Cheatham","New Orleans Pelicans",1445697
+"Kelan Martin","Indiana Pacers",1445697
+"Taj Gibson","New York Knicks",1442968
+"Elie Okobo","Brooklyn Nets",1416852
+"Jaylen Adams","Milwaukee Bucks",1416852
+"Jemerrio Jones","Los Angeles Lakers",1416852
+"Dairis Bertans","New Orleans Pelicans",1416852
+"Yante Maten","Boston Celtics",1416852
+"Tarik Phillip","Washington Wizards",1416842
+"Dakari Johnson","Memphis Grizzlies",1378242
+"Kyle Collinsworth","Utah Jazz",1378242
+"Jaylen Morris","San Antonio Spurs",1378242
+"Brandon Paul","San Antonio Spurs",1378242
+"Rodney Purvis","Miami Heat",1378242
+"David Stockton","Los Angeles Lakers",1378242
+"Zhou Qi","Houston Rockets",1378242
+"Aaron Jackson","Houston Rockets",1378242
+"Ike Anigbogu","New Orleans Pelicans",1378242
+"Vernon Carey Jr.","Charlotte Hornets",1350000
+"Jabari Bird","null Unknown",1349464
+"Ben Moore","San Antonio Spurs",1349383
+"James Nunnally","New Orleans Pelicans",1349383
+"Xavier Tillman","Memphis Grizzlies",1300000
+"Tyrell Terry","Dallas Mavericks",1289846
+"Alex Len","Washington Wizards",1265372
+"Noah Vonleh","Brooklyn Nets",1087776
+"Nick Young","Denver Nuggets",1042584
+"Nick Richards","Charlotte Hornets",1e+06
+"Jahmi'us Ramsey","Sacramento Kings",1e+06
+"Gorgui Dieng","San Antonio Spurs",1e+06
+"Paul Millsap","Denver Nuggets",1e+06
+"Ron Baker","Washington Wizards",94580
+"Daniel Oturu","LA Clippers",898310
+"Jordan Nwora","Milwaukee Bucks",898310
+"Anthony Gill","Washington Wizards",898310
+"Stanton Kidd","Utah Jazz",898310
+"Isaiah Joe","Philadelphia 76ers",898310
+"Tre Jones","San Antonio Spurs",898310
+"Elijah Hughes","Utah Jazz",898310
+"KJ Martin","Houston Rockets",898310
+"CJ Elleby","Portland Trail Blazers",898310
+"Deividas Sirvydis","Detroit Pistons",898310
+"Sam Merrill","Milwaukee Bucks",898310
+"Max Strus","Miami Heat",898310
+"Isaiah Briscoe","Orlando Magic",838464
+"Andre Drummond","Los Angeles Lakers",794536
+"Blake Griffin","Brooklyn Nets",776983
+"Oshae Brissett","Indiana Pacers",757453
+"Ersan Ilyasova","Utah Jazz",754783
+"Chimezie Metu","Sacramento Kings",7e+05
+"Timothe Luwawu-Cabarrot","Brooklyn Nets",654469
+"Lamar Stevens","Cleveland Cavaliers",652366
+"Paul Reed","Philadelphia 76ers",609128
+"Jeff Teague","Milwaukee Bucks",510589
+"Norvel Pelle","New York Knicks",5e+05
+"Dewayne Dedmon","Miami Heat",432890
+"Nemanja Bjelica","Miami Heat",432890
+"Jabari Parker","Boston Celtics",430729
+"Alize Johnson","Brooklyn Nets",399591
+"Tyler Cook","Brooklyn Nets",396081
+"Dion Waiters","Los Angeles Lakers",375385
+"Juan Toscano-Anderson","Golden State Warriors",358295
+"Yuta Watanabe","Toronto Raptors",321893
+"Anthony Tolliver","Philadelphia 76ers",263501
+"Tim Frazier","Memphis Grizzlies",255294
+"Khyri Thomas","Houston Rockets",250000
+"Damian Jones","Sacramento Kings",237965
+"DeMarcus Cousins","LA Clippers",233095
+"Moritz Wagner","Orlando Magic",221995
+"Yogi Ferrell","LA Clippers",214169
+"Rondae Hollis Jefferson","Portland Trail Blazers",210895
+"Jimmer Fredette","Phoenix Suns",208509
+"Austin Rivers","Denver Nuggets",188696
+"Devonte' Graham","Charlotte Hornets",163861
+"Mamadi Diakite","Milwaukee Bucks",160173
+"Mfiondu Kabengele","Cleveland Cavaliers",154433
+"Naji Marshall","New Orleans Pelicans",120000
+"Freddie Gillespie","Toronto Raptors",116903
+"Ignas Brazdeikis","Orlando Magic",49510
+"Mike James","Brooklyn Nets",39608
+"Elijah Bryant","Milwaukee Bucks",24611
+"Caleb Homesley","Washington Wizards",20000
+"Charlie Brown Jr.","Oklahoma City Thunder",19804
+"Omer Yurtseven","Utah Jazz",18458
+"Gary Payton II","Golden State Warriors",11898
