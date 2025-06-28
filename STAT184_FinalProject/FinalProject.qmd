@@ -25,7 +25,7 @@ format:
 
 # Introduction
 
-  When the pandemic hit, the NBA didn’t just lose games—it lost billions. I remember watching those eerie, empty arenas in 2020 and wondering: *How bad is this financially? And are the players feeling it too?* That curiosity turned into this project, where I dive into how COVID-19 affected the league, especially between 2019 and 2023.
+  When the pandemic hit, the NBA didn’t just lose games—it lost billions. I remember watching those empty arenas in 2020 and wondering: *How bad is this financially? And are the players feeling it too?* That curiosity turned into this project, where I dive into how COVID-19 affected the league, especially between 2019 and 2023.
 
 
 
@@ -56,7 +56,6 @@ format:
 
 ## Data Wrangling
 
-### Data Wrangling for NBA Player Salary
   We started by loading player salary data from four NBA seasons (2019–2023). Each dataset had its own quirks—different column names, inconsistent formats, and dollar signs or commas in the salary values. So, to make things cleaner, we kept just the essentials: player names and their salaries. Then we gave each column a clear, season-specific name so everything would line up later.
 
   Next, we deal about the formatting. Since R can’t handle salary columns with symbols like $ or ,, we stripped those out using regular expressions and converted the cleaned values into numbers. This step made it possible to do calculations like finding averages or comparing across seasons.
@@ -129,7 +128,6 @@ PlayerSalary2019_2023 <- PlayerSalary2019_2023 %>%
 ```
 
 
-### Data Wrangling for Attendance
 ```{r, echo=FALSE}
 Attendance <- read.csv("~/Desktop/Stat 184/STAT184_FinalProject/Attendance/2019_2023_NBA_Attendance.csv")
 
@@ -456,6 +454,16 @@ ggplot(avg_turnovers, aes(x = Season, y = AverageTOV, group = 1)) +
 5.    https://fansided.com/posts/what-is-the-average-and-median-nba-salary-for-2023-24-by-position-01hbrqp8mv6f
 
 6.    https://en.wikipedia.org/wiki/List_of_highest-paid_NBA_players_by_season
+
+7.    NBA Salaries: Hoops Fortune (2023-2025), https://www.kaggle.com/datasets/omarsobhy14/nba-players-salaries/data
+
+8.    NBA Player salaries 2019-20,https://www.kaggle.com/datasets/junfenglim/nba-player-salaries-201920/data
+
+9.    ESPN NBA Attendance Report, https://www.espn.com/nba/attendance/_/year/2021,https://www.espn.com/nba/attendance/_/year/2022, https://www.espn.com/nba/attendance/_/year/2023, https://www.espn.com/nba/attendance/_/year/2020, https://www.espn.com/nba/attendance/_/year/2019
+
+10.   NBA Teams Stat 2000-2023, https://www.kaggle.com/datasets/bluedreamv1b3/nba-teams-stat-2000-2023?utm_source=chatgpt.com
+
+
 
 
 # Code Appendix
